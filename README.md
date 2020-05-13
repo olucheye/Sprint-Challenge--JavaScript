@@ -1,14 +1,14 @@
 # Sprint Challenge: JavaScript Fundamentals
 
-This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a survey of problems. This Sprint explored JavaScript Fundamentals. During this Sprint, you studied array methods, this keyword, prototypes, and class syntax. In your challenge this week, you will demonstrate proficiency by completing a survey of JavaScript problems.
+I stumbled upon LAMBDA's curriculum and I am using her in-house student challenges to verify my self-taught knowledge of Web Programming(Javascript)
+
+`This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a survey of problems. This Sprint explored JavaScript Fundamentals. During this Sprint, you studied array methods, this keyword, prototypes, and class syntax. In your challenge this week, you will demonstrate proficiency by completing a survey of JavaScript problems.`
 
 ## Instructions
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
-This is an individual assessment. All work must be your own. Your challenge score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
-
-You are not allowed to collaborate during the Sprint Challenge. However, you are encouraged to follow the twenty-minute rule and seek support from your TL and Instructor in your cohort help channel on Slack. Your work reflects your proficiency in JavaScript fundamentals.
+[Redacted]
 
 > You have three hours to complete this challenge. Plan your time accordingly.
 
@@ -22,7 +22,7 @@ In meeting the minimum viable product (MVP) specifications listed below, you sho
 
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
 
-Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead
+Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read [Redacted]
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
 `Both are higher order methods on arrays, .forEach returns undefined, while .map returns a value. .forEach is used to iterate over values in arrays,, while .map can iterate and manipulate return values of the array.`
@@ -43,19 +43,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 ### Task 1 - Project Set up
 
-Follow these steps to set up and work on your project:
-Make sure you clone the branch that the TK links to: the vnext branch, NOT master!
-
-- [ ] Create a forked copy of this project.
-- [ ] Add TL as collaborator on Github.
-- [ ] Clone your OWN version of Repo (Not Lambda's by mistake!).
-- [ ] Create a new Branch on the clone: git checkout -b `<firstName-lastName>`.
-- [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-- [ ] You are now ready to build this project with your preferred IDE
-- [ ] Implement the project on your Branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
-
-
+[Redacted]
 
 ### Task 2 - Minimum Viable Product
 
@@ -85,14 +73,4 @@ Once you have completed the prototypes challenge, it's time to convert all your 
 
 In your solutions, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 
-### Task 3 - Stretch Problems
-
-There are a few stretch problems found throughout the files, don't work on them until you are finished with MVP requirements!
-
-## Submission Format
-
-Follow these steps for completing your project:
-
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
-- [ ] Add your team lead as a Reviewer on the Pull-request
-- [ ] TL then will count the HW as done by  merging the branch back into master.
+[Redacted]
