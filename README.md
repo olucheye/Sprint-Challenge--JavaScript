@@ -1,6 +1,6 @@
 # Sprint Challenge: JavaScript Fundamentals
 
-I stumbled upon LAMBDA's curriculum and I am using her in-house student challenges to verify my self-taught knowledge of Web Programming(Javascript)
+**I stumbled upon LAMBDA's curriculum and I am using her in-house student challenges to verify my self-taught knowledge of Web Programming(Javascript)**
 
 `This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a survey of problems. This Sprint explored JavaScript Fundamentals. During this Sprint, you studied array methods, this keyword, prototypes, and class syntax. In your challenge this week, you will demonstrate proficiency by completing a survey of JavaScript problems.`
 
